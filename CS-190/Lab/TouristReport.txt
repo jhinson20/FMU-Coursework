@@ -1,0 +1,25 @@
+
+Report for approved tourist Tom Jones:
+Vacation date: 10-20-2021
+Booked with: Air Florence
+Destinations:
+1. Miami, Fl 11-03-2021
+2. Atlanta, GA 12-25-2021
+Tested: 11-05-2020
+Vaccinated: 02-30-2021
+
+Report for tourist Lily Black:
+Vacation date: 08-09-2018
+Booked with: Air Florence
+Destinations:
+1. New York, NY 10-24-2019
+2. Houston, Texas 11-21-2019
+
+Report for approved tourist Lynn:
+Vacation date: 44-55-6632
+Booked with: Air Air
+Destinations:
+1. Rappid 21-45-8796
+2. North 11-22-4784
+Tested: 11-55-7878
+Vaccinated: 23-458-9965

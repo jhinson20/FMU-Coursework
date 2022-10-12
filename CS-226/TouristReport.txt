@@ -1,0 +1,24 @@
+
+Report for unapproved tourist John Doe:
+Vacation date: 4
+Booked with: 4
+Destinations:
+1. 4 4
+2. 4 4
+3. 4 4
+
+Report for unapproved tourist Sally Smith:
+Vacation date: 4
+Booked with: 4
+Destinations:
+1. 4 4
+2. 4 4
+
+Report for approved tourist Tom Johnson:
+Vacation date: 4
+Booked with: 4
+Destinations:
+1. 4 4
+2. 4 4
+Tested: 4
+Vaccinated: 4
